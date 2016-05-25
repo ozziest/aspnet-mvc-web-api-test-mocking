@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreApp", "StoreApp\StoreApp.csproj", "{697993FD-8CD8-458F-BD1D-523DF71C310E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreApp.Tests", "StoreApp.Tests\StoreApp.Tests.csproj", "{0BAD49F0-5623-4292-B4EA-08E9C5573EE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{697993FD-8CD8-458F-BD1D-523DF71C310E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697993FD-8CD8-458F-BD1D-523DF71C310E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697993FD-8CD8-458F-BD1D-523DF71C310E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697993FD-8CD8-458F-BD1D-523DF71C310E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BAD49F0-5623-4292-B4EA-08E9C5573EE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BAD49F0-5623-4292-B4EA-08E9C5573EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BAD49F0-5623-4292-B4EA-08E9C5573EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BAD49F0-5623-4292-B4EA-08E9C5573EE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
